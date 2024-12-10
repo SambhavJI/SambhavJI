@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SambhavJI
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C++ With OOPs
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Projects Related to c++
 - 📫 How to reach me Phone:-7898552906 Email:-sambhavtrivedi84@gmail.com
 - 😄 Pronouns: He/him
