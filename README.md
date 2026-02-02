@@ -46,7 +46,7 @@
 
 ## 📊 GitHub Stats
 
-![SambhavJI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SambhavJI&show_icons=true&theme=blue-green)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SambhavJI&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 ![SambhavJI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SambhavJI&theme=blue-green&layout=compact)  
 
 ---
