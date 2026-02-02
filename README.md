@@ -47,7 +47,7 @@
 ## 📊 GitHub Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SambhavJI?cardType=level-alternate&theme=dark&fontFamily=JetBrains%20Mono&preferLogin=false&Points.Commits=100)](https://git.io/awesome-stats-card)
-![SambhavJI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SambhavJI&theme=blue-green&layout=compact)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kawaii_coder44?theme=dark&font=JetBrains%20Mono)
 
 ---
 
